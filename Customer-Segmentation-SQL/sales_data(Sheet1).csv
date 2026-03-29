@@ -1,0 +1,8 @@
+order_id,order_date,product,category,price,quantity,customer_id,city
+1001,1/1/2025,Wings,Food,12,2,C001,Atlanta
+1002,1/2/2025,Burger,Food,10,1,C002,Atlanta
+1003,1/2/2025,Fries,Food,5,3,C001,Atlanta
+1004,1/3/2025,Soda,Drink,3,4,C003,Atlanta
+1005,1/3/2025,Wings,Food,12,1,C004,Atlanta
+1006,1/4/2025,Burger,Food,10,2,C002,Atlanta
+1007,1/5/2025,Wings,Food,12,3,C001,Atlanta
